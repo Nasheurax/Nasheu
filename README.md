@@ -18,8 +18,7 @@ En parallèle, je développe des projets web en freelance et j'élargis mes comp
 
 - 🔧 Administration système & sécurité au quotidien
 - 💻 Développement web (Next.js, Supabase)
-- 📚 Actuellement en train d'apprendre : nouveaux langages de programmation & IA
-- 📫 Ouvert aux échanges autour de la tech, l'infra et le dev
+- 📚 Actuellement en train d'apprendre : Python, Java, LLM
 
 ---
 
