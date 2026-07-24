@@ -30,11 +30,15 @@ En parallèle, je développe des projets web en freelance et j'élargis mes comp
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Exchange%20Online-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**En cours d'apprentissage :**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -42,19 +46,14 @@ En parallèle, je développe des projets web en freelance et j'élargis mes comp
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasheurax&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasheurax&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasheurax&layout=compact&theme=github_dark&hide_border=true" alt="Top langs" />
 </p>
 
 ---
 
 ### 📌 Projets en cours
 
-- **halle-du-terroir** — Projet en cours de développement
+- 🌐 Site en cours de dev
 
 ---
 
