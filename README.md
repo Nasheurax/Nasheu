@@ -54,7 +54,6 @@ En parallèle, je développe des projets web en freelance et j'élargis mes comp
 
 ### 📌 Projets en cours
 
-- **[MapFood](https://github.com/Nasheurax/mapfood)** — Application Next.js / Supabase
 - **halle-du-terroir** — Projet en cours de développement
 
 ---
