@@ -14,7 +14,7 @@
 
 Ingénieur système Microsoft, je m'occupe au quotidien d'infrastructures **Active Directory**, **Exchange Online** et **Windows Server**, avec une attention particulière portée à la sécurité (AD, recommandations ANSSI, MFA).
 
-En parallèle, je développe des projets web en freelance et j'élargis mes compétences en explorant de nouveaux langages ainsi qse qui tourne autour de l'IA.
+En parallèle, je développe des projets web en freelance et j'élargis mes compétences en explorant de nouveaux langages ainsi se qui tourne autour de l'IA.
 
 - 🔧 Administration système & sécurité au quotidien
 - 💻 Développement web (Next.js, Supabase)
