@@ -1,7 +1,7 @@
 <h1 align="center">Hey, moi c'est Nasheu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8me+Microsoft;Active+Directory+%7C+Exchange+Online;Dev+web+PowerShell+(Next.js+%2F+Supabase);En+apprentissage+%3A+nouveaux+langages+%26+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Syst%C3%A8me+Microsoft;Active+Directory+%7C+Exchange+Online;Dev+%7C+PowerShell+(Next.js+%2F+Supabase);En+apprentissage+%3A+LLM+%26+IA" alt="Typing SVG" />
 </p>
 
 <p align="center">
