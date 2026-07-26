@@ -13,6 +13,7 @@
 ### 🧑‍💻 Qui je suis
 
 Ingénieur système Microsoft, je m'occupe au quotidien d'infrastructures **Active Directory**, **Exchange Online** et **Windows Server**.
+
 En parallèle, je développe des projets web en freelance et j'élargis mes compétences en explorant de nouveaux langages ainsi se qui tourne autour de l'IA.
 
 - 🔧 Administration système & sécurité au quotidien
