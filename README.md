@@ -13,8 +13,7 @@
 ### 🧑‍💻 Qui je suis
 
 Ingénieur système Microsoft, je m'occupe au quotidien d'infrastructures **Active Directory**, **Exchange Online** et **Windows Server**.
-
-En parallèle, je développe des projets web en freelance et j'élargis mes compétences en explorant de nouveaux langages ainsi se qui tourne autour de l'IA.
+En parallèle, je développe des projets web en freelance et j'élargis mes compétences en explorant de nouveaux langages ainsi que ce qui tourne autour de l'IA.
 
 - 🔧 Administration système & sécurité au quotidien
 - 💻 Développement web (Next.js, Supabase)
@@ -45,7 +44,7 @@ En parallèle, je développe des projets web en freelance et j'élargis mes comp
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasheurax&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Nasheurax&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 ---
